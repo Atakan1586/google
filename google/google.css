@@ -1,0 +1,67 @@
+.resım {
+    text-align: center;
+
+}
+.mavi {
+    color: rgb(14, 14, 135);
+
+}
+.box {
+  
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 90px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: rgba(217, 217, 217, 0.911);
+}
+.ortala{
+  
+    text-align: center;
+}
+
+.box1 {
+    float: left;
+    background-color: rgba(13, 205, 202, 0.6);
+    font-size: 18px;
+    line-height: 3px;
+   
+width: 490px;
+height: 140px;
+border: 2px;
+padding-right: 73px;
+margin-right: 10px;
+text-align: center;
+}
+.box2 {
+    float: left;
+    background-color: rgba(12, 179, 176, 0.6);
+    width: 191px;
+    font-size: 18px;
+    line-height: 3px;
+height: 140px;
+padding-right: 73px;
+margin-right: 10px;
+text-align: center;
+}
+.box3 {
+    font-size: 18px;
+    float: left;
+    background-color: rgba(11, 150, 147, 0.6);
+    width: 590px;
+height: 140px;
+line-height: 3px;
+padding-right: 73px;
+margin-right: 10px;
+text-align: center;
+
+
+}
+.son { 
+    clear: both;
+    padding:10px;
+    
+    text-align: center;
+
+}
